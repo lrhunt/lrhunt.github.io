@@ -1,3 +1,5 @@
+This website was taken from HTML5 UP. It has been edited and Curated by Lucas Hunt on 09/21/2021
+
 Editorial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
